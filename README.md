@@ -4,8 +4,6 @@ Message busses and queues are a powerful tool for communicating between applicat
 
 ## Create project ResponseService
 
-<img src="/pictures/response_service.png" title="response service"  width="800">
-
 
 ## Create projects
 
@@ -18,5 +16,10 @@ Install-Package Microsoft.Azure.ServiceBus
 ```
 Install-Package Microsoft.Azure.ServiceBus
 ```
+
+
+## Azure Service Bus
+
+<img src="/pictures/response_service.png" title="response service"  width="800">
 
 
