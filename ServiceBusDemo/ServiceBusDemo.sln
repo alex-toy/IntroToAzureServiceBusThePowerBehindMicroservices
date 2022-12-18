@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBSender", "SBSender\SBSender.csproj", "{C1DEA695-465F-466B-BC78-168C434C63FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBShared", "SBShared\SBShared.csproj", "{83A5D828-04AD-41AB-9EE2-43B0C4405EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{54182EC3-17D7-4034-B7F6-29DB54CE8131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DEA695-465F-466B-BC78-168C434C63FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DEA695-465F-466B-BC78-168C434C63FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DEA695-465F-466B-BC78-168C434C63FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DEA695-465F-466B-BC78-168C434C63FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A5D828-04AD-41AB-9EE2-43B0C4405EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A5D828-04AD-41AB-9EE2-43B0C4405EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A5D828-04AD-41AB-9EE2-43B0C4405EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A5D828-04AD-41AB-9EE2-43B0C4405EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54182EC3-17D7-4034-B7F6-29DB54CE8131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54182EC3-17D7-4034-B7F6-29DB54CE8131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54182EC3-17D7-4034-B7F6-29DB54CE8131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54182EC3-17D7-4034-B7F6-29DB54CE8131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDED34CB-3849-4725-8289-7F279A6C6362}
+	EndGlobalSection
+EndGlobal
