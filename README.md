@@ -25,4 +25,9 @@ Install-Package Microsoft.Azure.ServiceBus
 <img src="/pictures/queue.png" title="queue"  width="800">
 <img src="/pictures/peek.png" title="peek"  width="800">
 
+### Receiver
+
+<img src="/pictures/received_messages.png" title="received messages"  width="800">
+<img src="/pictures/processed_messages.png" title="processed messages"  width="800">
+
 
