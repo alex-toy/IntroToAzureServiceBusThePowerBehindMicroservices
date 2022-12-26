@@ -20,6 +20,9 @@ Install-Package Microsoft.Azure.ServiceBus
 
 ## Azure Service Bus
 
-<img src="/pictures/azure_service_bus.png" title="azure service bus"  width="800">
+### Queue
+
+<img src="/pictures/queue.png" title="queue"  width="800">
+<img src="/pictures/peek.png" title="peek"  width="800">
 
 

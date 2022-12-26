@@ -1,0 +1,12 @@
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.deps.json
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.dll
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.pdb
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.csproj.AssemblyReference.cache
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.AssemblyInfoInputs.cache
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.AssemblyInfo.cs
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.csproj.CoreCompileInputs.cache
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.dll
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\refint\SBShared.dll
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.pdb
+C:\source\CsharpLibraries\IntroToAzureServiceBusThePowerBehindMicroservices\ServiceBusDemo\SBShared\obj\Debug\net5.0\ref\SBShared.dll

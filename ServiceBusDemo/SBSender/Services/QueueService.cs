@@ -15,7 +15,7 @@ namespace SBSender.Services
             this._config = config;
         }
 
-        public async Task SendMessage<T>(T serviceBusMessage, string queueName)
+        public async Task SendMessageAsync<T>(T serviceBusMessage, string queueName)
         {
             var queueClient = new QueueClient(_config.GetConnectionString("AzureServiceBus"), queueName);
             string messageBody = JsonSerializer.Serialize(serviceBusMessage);
