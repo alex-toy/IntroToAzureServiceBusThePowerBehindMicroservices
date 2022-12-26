@@ -20,6 +20,6 @@ Install-Package Microsoft.Azure.ServiceBus
 
 ## Azure Service Bus
 
-<img src="/pictures/response_service.png" title="response service"  width="800">
+<img src="/pictures/azure_service_bus.png" title="azure service bus"  width="800">
 
 
